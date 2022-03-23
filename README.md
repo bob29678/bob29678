@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bob29678
-- 👀 I’m interested in games https://dphdmn.github.io/slidy/  https://mzrg.com/js/fifteen.html
+- 👀 I’m interested in games https://dphdmn.github.io/slidy/  https://mzrg.com/js/fifteen.html http://frenzy.sparklinlabs.com/
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on programs
 - 📫 How to reach me - you cant haha
