@@ -5,6 +5,9 @@ https://fognetwork.github.io/Ingot/ https://epicpikaguy.itch.io/n-step-steve-par
 - 💞️ I’m looking to collaborate on programs
 - 📫 How to reach me - you cant haha
 
+chrome://settings/resetProfileSettings 
+javascript:opener.chrome.send("TurnOffSync");
+
 <!---
 bob29678/bob29678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
