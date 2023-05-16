@@ -6,7 +6,7 @@ https://fognetwork.github.io/Ingot/ https://epicpikaguy.itch.io/n-step-steve-par
 - 📫 How to reach me - you cant haha
 
 chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/manifest.json
-chrome.management.setEnabled('jnhblfnklpfpbbadlfbikhhifadinfho', false)
+chrome.management.setEnabled('jnhblfnklpfpbbadlfbikhhifadinfho', false);
 chrome.management.setEnabled('jbldkhfglmgeihlcaeliadhipokhocnm', false)
 <!---
 bob29678/bob29678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
