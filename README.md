@@ -5,6 +5,8 @@ https://fognetwork.github.io/Ingot/ https://epicpikaguy.itch.io/n-step-steve-par
 - 💞️ I’m looking to collaborate on programs
 - 📫 How to reach me - you cant haha
 
+LUKES EMAIL: lukebarber42@gmail.com
+
 chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/manifest.json
 chrome.management.setEnabled('jnhblfnklpfpbbadlfbikhhifadinfho', false);
 chrome.management.setEnabled('jbldkhfglmgeihlcaeliadhipokhocnm', false)
