@@ -5,6 +5,13 @@ https://fognetwork.github.io/Ingot/ https://epicpikaguy.itch.io/n-step-steve-par
 - 💞️ I’m looking to collaborate on programs
 - 📫 How to reach me - you cant haha
 
+```javascript
+const url = prompt('URL to be embedded. Some URLs may not work because of security policies');
+const win = window.open('data:text/html,');
+win.location.origin = 'https://google.com';
+win.document.documentElement.innerHTML = `<style>body{margin: 0;} iframe{width: 100%; height: 100%;}</style><iframe src="${url}" frameborder="0"></iframe>`;
+```
+
 LUKES EMAIL: lukebarber42@gmail.com
 
 chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/manifest.json
