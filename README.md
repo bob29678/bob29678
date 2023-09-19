@@ -4,7 +4,7 @@ https://fognetwork.github.io/Ingot/ https://epicpikaguy.itch.io/n-step-steve-par
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on programs
 - 📫 How to reach me - you cant haha
-
+https://new.express.adobe.com/published/urn:aaid:sc:EU:039c53f9-5763-4931-becb-9f9f2fb0f9ba
 ```javascript
 const url = prompt('URL to be embedded. Some URLs may not work because of security policies');
 const win = window.open('data:text/html,');
