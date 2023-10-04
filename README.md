@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @bob29678
 - 👀 I’m interested in games https://dphdmn.github.io/slidy/  https://mzrg.com/js/fifteen.html http://frenzy.sparklinlabs.com/ https://code-bullet.github.io/Jump-King/ https://pastebin.com/4RhhPJVr https://browserfps.com/social.html https://turbowarp.org/665493836?fps=60&hqpen http://futuroueb.free.fr/IWBTC/game/  
 https://fognetwork.github.io/Ingot/ https://epicpikaguy.itch.io/n-step-steve-part-1 https://marbleblast.vani.ga https://ooooooooo.ooo/static/browse/
+
+https://suika-game.app
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on programs
 - 📫 How to reach me - you cant haha
