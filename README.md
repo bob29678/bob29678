@@ -13,7 +13,7 @@ const win = window.open('data:text/html,');
 win.location.origin = 'https://google.com';
 win.document.documentElement.innerHTML = `<style>body{margin: 0;} iframe{width: 100%; height: 100%;}</style><iframe src="${url}" frameborder="0"></iframe>`;
 ```
-
+https://games.wazserver.org/#game
 LUKES EMAIL: lukebarber42@gmail.com
 
 chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/manifest.json
