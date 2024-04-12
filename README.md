@@ -28,3 +28,4 @@ SlkacqO3N861vSH4gh2yKZyu90hYaILJckOik4tE
 
 
 https://jacklance.github.io/octogram
+https://jacklance.github.io/games.html
