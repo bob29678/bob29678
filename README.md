@@ -35,3 +35,4 @@ https://incredible.pm/
 https://www.hempuli.com/index_big.php
 https://www.1000mines.com/#classic
 https://c.eev.ee/lexys-labyrinth/
+https://pokerogue.net/
